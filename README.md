@@ -35,7 +35,7 @@
 ## 📊 &nbsp; GitHub Analytics
 
 <p aling=left>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vtbarros21&show_icons=true&theme=gotham" alt="vtbarros21 stats"/> <br>
+  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=vtbarros21&show_icons=true&theme=gotham" alt="vtbarros21 stats"/> <br>
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtbarros21&layout=compact&theme=gotham" alt="vtbarros21 most languages"/>
 </p>
 
