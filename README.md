@@ -56,4 +56,4 @@
 </a>
 </p>
 
-![Snake Animation](https://github.com/vtbarros21/vtbarros21/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/vtbarros21/vtbarros/blob/output/github-contribution-grid-snake.svg)
