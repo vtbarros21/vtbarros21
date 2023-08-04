@@ -55,5 +55,3 @@
 <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
 </a>
 </p>
-
- ![Snake animation](https://github.com/vtbarros21/vtbarros21/blob/output/github-contribution-grid-snake.svg)
