@@ -58,5 +58,7 @@
 
 <br>
 <br>
+<br>
+<br>
 
 ![snake gif](https://github.com/vtbarros21/vtbarros21/blob/output/github-contribution-grid-snake.gif)
