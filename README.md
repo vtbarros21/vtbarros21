@@ -58,8 +58,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
