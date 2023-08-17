@@ -35,8 +35,8 @@
 ## 📊 &nbsp; GitHub Analytics
 
 <p aling=left>
-  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=vtbarros21&show_icons=true&theme=transparent" alt="vtbarros21 stats"/> <br>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtbarros21&layout=compact&theme=transparent" alt="vtbarros21 most languages"/>
+  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=vtbarros21&show_icons=true&theme=vue-dark" alt="vtbarros21 stats"/> <br>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtbarros21&layout=compact&theme=vue-dark" alt="vtbarros21 most languages"/>
 </p>
 
 <br><br><img align="right" height="100em" src="https://cdn.discordapp.com/attachments/985338809589825556/1123348655932448819/anime-computer.gif"/>
